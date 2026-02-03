@@ -1,0 +1,148 @@
+{
+  "accessories": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 25,
+      "brand": "Logitech"
+    },
+    {
+      "id": 2,
+      "name": "USB-C Headphones",
+      "price": 40,
+      "brand": "Samsung"
+    }
+  ],
+
+  "electronics_and_computer": [
+    {
+      "id": 1,
+      "name": "LED Monitor",
+      "price": 180,
+      "brand": "Dell"
+    },
+    {
+      "id": 2,
+      "name": "External Hard Drive",
+      "price": 95,
+      "brand": "Seagate"
+    },
+    {
+      "id": 3,
+      "name": "WiFi Router",
+      "price": 120,
+      "brand": "TP-Link"
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Keyboard",
+      "price": 85,
+      "brand": "Keychron"
+    },
+    {
+      "id": 5,
+      "name": "Webcam",
+      "price": 70,
+      "brand": "Logitech"
+    }
+  ],
+
+  "laptops_and_desktops": [
+    {
+      "id": 1,
+      "name": "Gaming Laptop",
+      "price": 1200,
+      "brand": "ASUS"
+    },
+    {
+      "id": 2,
+      "name": "Desktop PC",
+      "price": 900,
+      "brand": "HP"
+    }
+  ],
+
+  "mobile_and_tablets": [
+    {
+      "id": 1,
+      "name": "Android Tablet",
+      "price": 300,
+      "brand": "Lenovo"
+    },
+    {
+      "id": 2,
+      "name": "iPad",
+      "price": 450,
+      "brand": "Apple"
+    },
+    {
+      "id": 3,
+      "name": "Budget Smartphone",
+      "price": 200,
+      "brand": "Xiaomi"
+    },
+    {
+      "id": 4,
+      "name": "5G Smartphone",
+      "price": 600,
+      "brand": "OnePlus"
+    },
+    {
+      "id": 5,
+      "name": "Kids Tablet",
+      "price": 150,
+      "brand": "Amazon"
+    },
+    {
+      "id": 6,
+      "name": "Foldable Phone",
+      "price": 1400,
+      "brand": "Samsung"
+    },
+    {
+      "id": 7,
+      "name": "E-Reader",
+      "price": 130,
+      "brand": "Kindle"
+    },
+    {
+      "id": 8,
+      "name": "Mini Tablet",
+      "price": 280,
+      "brand": "Apple"
+    }
+  ],
+
+  "smartphone_and_smart_tv": [
+    {
+      "id": 1,
+      "name": "Flagship Smartphone",
+      "price": 999,
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Android Flagship Phone",
+      "price": 899,
+      "brand": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Smart TV 43 inch",
+      "price": 500,
+      "brand": "LG"
+    },
+    {
+      "id": 4,
+      "name": "Smart TV 55 inch",
+      "price": 750,
+      "brand": "Sony"
+    },
+    {
+      "id": 5,
+      "name": "Android Smart TV",
+      "price": 420,
+      "brand": "TCL"
+    }
+  ]
+}
