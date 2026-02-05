@@ -5,6 +5,9 @@ import { ShopComponent } from './shop/shop.component';
 import { ContactComponent } from './contact/contact.component';
 import { SinglepageComponent } from './singlepage/singlepage.component';
 import { BestsellerComponent } from './bestseller/bestseller.component';
+import { CartComponent } from './cart/cart.component';
+import { CheckoutComponent } from './checkout/checkout.component';
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 
 const routes: Routes = [
   {
@@ -30,6 +33,16 @@ const routes: Routes = [
   },{
     path:"bestseller",
     component:BestsellerComponent
+  },{
+    path:"cart",
+    component:CartComponent
+  },{
+    path:"checkout",
+    component:CheckoutComponent
+  },
+  {
+    path:"**",
+    component:PagenotfoundComponent
   }
 ];
 

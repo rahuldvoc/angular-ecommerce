@@ -10,6 +10,9 @@ import { ShopComponent } from './shop/shop.component';
 import { ContactComponent } from './contact/contact.component';
 import { SinglepageComponent } from './singlepage/singlepage.component';
 import { BestsellerComponent } from './bestseller/bestseller.component';
+import { CartComponent } from './cart/cart.component';
+import { CheckoutComponent } from './checkout/checkout.component';
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +23,10 @@ import { BestsellerComponent } from './bestseller/bestseller.component';
     ShopComponent,
     ContactComponent,
     SinglepageComponent,
-    BestsellerComponent
+    BestsellerComponent,
+    CartComponent,
+    CheckoutComponent,
+    PagenotfoundComponent
   ],
   imports: [
     BrowserModule,
