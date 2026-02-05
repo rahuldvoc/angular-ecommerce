@@ -9,6 +9,7 @@ import { FootbarComponent } from './footbar/footbar.component';
 import { ShopComponent } from './shop/shop.component';
 import { ContactComponent } from './contact/contact.component';
 import { SinglepageComponent } from './singlepage/singlepage.component';
+import { BestsellerComponent } from './bestseller/bestseller.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { SinglepageComponent } from './singlepage/singlepage.component';
     FootbarComponent,
     ShopComponent,
     ContactComponent,
-    SinglepageComponent
+    SinglepageComponent,
+    BestsellerComponent
   ],
   imports: [
     BrowserModule,

@@ -4,6 +4,7 @@ import { HomeComponent } from './home/home.component';
 import { ShopComponent } from './shop/shop.component';
 import { ContactComponent } from './contact/contact.component';
 import { SinglepageComponent } from './singlepage/singlepage.component';
+import { BestsellerComponent } from './bestseller/bestseller.component';
 
 const routes: Routes = [
   {
@@ -26,6 +27,9 @@ const routes: Routes = [
   {
     path:"singleproduct",
     component:SinglepageComponent
+  },{
+    path:"bestseller",
+    component:BestsellerComponent
   }
 ];
 
